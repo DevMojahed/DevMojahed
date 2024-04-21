@@ -1,0 +1,16 @@
+{
+  "name": "mohammad_es-hagh_mojahed",
+  "version": "1.0.0",
+  "description": "github-profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "mojahed"
+  ],
+  "author": "Mohammad Es-hagh Mojahed",
+  "license": "ISC"
+}
