@@ -3,18 +3,13 @@
 </div>
 
 ### Hi there 👋
-# Welcome To My GitHub Profile !
-
 ---
 
 ## My skills 📜
 
 ### What I do
 
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
+Currently, I'm a front-end developer specializing in JavaScript/TypeScript, the dynamic duo! 😎 I'm particularly fond of VueJS and NuxtJS, actively honing my skills in these technologies and seeking ways to improve them further.
 
 ## My skills 📜
 
