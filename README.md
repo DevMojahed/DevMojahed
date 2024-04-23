@@ -16,31 +16,25 @@ Currently, I'm a front-end developer specializing in JavaScript/TypeScript, the 
 ### Web technologies
 
 - JavaScript
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
 - TypeScript
 - Nuxt.js
 - Vue.js
+- TailwindCss
+- i18n
 - HTML, CSS
-  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
 - SCSS
 - WordPress
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
 - PHP
-- MySQL
 
 ### Productivity utilities
 
-- Microsoft Office - I am a Certified
-  [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url)
-  and
-  [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
-  Expert
+- Microsoft Office - I am a familiar with Excel and Word
 
 ### Languages 🌐
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
+| English       | B2 (Private school certified)                 |
 
 ## What I'm currently learning 📚
 
